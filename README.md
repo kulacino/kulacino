@@ -2,7 +2,7 @@
 
 I'm Kulacino a.k.a _Cynthia Ayu Windani_. In Indonesian, **Kulacino** means _water marks on the table surface due to cold or wet glass on it_. Due to my habit in excessive iced-coffee drinking, I often left those "kulacino" on the table. I'm a professional coffee drinker, ~~that's why~~. :stuck_out_tongue_closed_eyes:
 
-Currently, I'm working as a **DevOps Engineer**. Living around Bogor, West Java, Indonesia with my husband and three :cat: `Yi, Sun, and Shin`. 
+Currently, I'm working as a **DevOps Engineer**. Living around Bogor, West Java, Indonesia with my husband and three :cat: cats: `Yi, Sun, and Shin`. 
 
 Apart from coding, I also maintain a [**personal blog**](https://ayuwelirang.com) and a [**book blog**](https://lib.ayuwelirang.com). 
 
