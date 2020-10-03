@@ -38,3 +38,5 @@ Other projects:
 ## Stats
 
 ![Kulacino's github stats](https://github-readme-stats.vercel.app/api?username=kulacino&count_private=true&show_icons=true&icon_color=f38181&title_color=b83b5e)
+
+*Stats generated via [Github Readme Stats by Anuraghazra](https://github.com/anuraghazra/github-readme-stats).*
