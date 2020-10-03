@@ -45,10 +45,4 @@ Other projects:
 
 ![Kulacino's github stats](https://github-readme-stats.vercel.app/api?username=kulacino&count_private=true&show_icons=true&icon_color=f38181&title_color=b83b5e)
 
-<<<<<<< HEAD
-# Heading 1
-## Heading 2
-### Heading 3
-=======
 *Stats generated via [Github Readme Stats by Anuraghazra](https://github.com/anuraghazra/github-readme-stats).*
->>>>>>> 5d7a678ccda49b1e196db98350306c7b04ef62e4
