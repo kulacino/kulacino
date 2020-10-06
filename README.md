@@ -28,21 +28,16 @@ I'm still creating some projects. If you :heart: it, want to support it, or prob
 ## Projects and Creations
 Lately, I'm interested in building some static site themes for Jekyll and Hugo. Even though I don't really have a sense in UI/UX or web design, I'm still trying to build them.
 
-Here is my ongoing projects:
+Here is my ongoing theme projects:
 
 - [**Bajawa:** A Jekyll Theme](https://github.com/kulacino/bajawa)
 - [**AvidReader:** Jekyll Theme for Book Blogger](https://github.com/kulacino/avidreader)
 
-Other projects:
+Other projects (mostly scripts):
 
 - Simple [apache-stack auto-install](https://github.com/kulacino/apache-auto-install).
+- [Image Optimizer](https://github.com/kulacino/s3-image-optimizer).
 - [Ansible database dumper](https://github.com/kulacino/ansible-database-dumper), can be used inside Ansible AWX too.
 - [Dockerpool](https://github.com/kulacino/Dockerpool), _pun from Deadpool_ :joy:. It's a collection of `Dockerbuild` files.
 - Simple [web-server-installer](https://github.com/kulacino/web-server-installer) to install various web server stack (_last update: Dec 5, 2017_).
 - Various bots (will be uploaded soon).
-
-## Stats
-
-![Kulacino's github stats](https://github-readme-stats.vercel.app/api?username=kulacino&count_private=true&show_icons=true&icon_color=f38181&title_color=b83b5e)
-
-*Stats generated via [Github Readme Stats by Anuraghazra](https://github.com/anuraghazra/github-readme-stats).*
