@@ -8,7 +8,7 @@ Currently, I'm working as a **DevOps Engineer**. Living around Bogor, West Java,
 
 Apart from coding, I also maintain a [**personal blog**](https://ayuwelirang.com) and a [**book blog**](https://lib.ayuwelirang.com).
 
-I'm still creating some projects. If you :heart: it, want to support it, or probably just want to treat me a cup of :coffee:, don't hesitate to tip me via [![](KaryaKarsa](https://karyakarsa.com/ayuwelirang)
+I'm still creating some projects. If you :heart: it, want to support it, or probably just want to treat me a cup of :coffee:, don't hesitate to tip me via [KaryaKarsa](https://karyakarsa.com/ayuwelirang)
 
 ## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Kubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=f38181)
