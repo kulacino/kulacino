@@ -2,7 +2,7 @@
 
 # Hi there! 👋
 
-I'm Kulacino a.k.a _Ayu W_. Currently, I'm working as a **DevOps Engineer**. Living around Bogor, West Java, Indonesia with my husband and four :cat: cats: `Yi, Sun, Shin, and Miny`.
+I'm Kulacino a.k.a _Ayu W_, working as a **DevOps Engineer**. I live around Bogor, West Java, Indonesia with my husband and four :cat: cats: `Yi, Sun, Shin, and Miny`.
 
 I'm still creating some projects. If you :heart: it, want to support it, or probably just want to treat me a cup of :coffee:, don't hesitate to tip me via [KaryaKarsa](https://karyakarsa.com/ayuwelirang)
 
