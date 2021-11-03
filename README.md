@@ -4,8 +4,6 @@
 
 I'm Kulacino a.k.a _Ayu W_, working as a **DevOps Engineer**. I live around Bogor, West Java, Indonesia with my husband and four :cat: cats: `Yi, Sun, Shin, and Miny`.
 
-I'm still creating some projects. If you :heart: it, want to support it, or probably just want to treat me a cup of :coffee:, don't hesitate to tip me via [KaryaKarsa](https://karyakarsa.com/ayuwelirang)
-
 ## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Kubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=f38181)
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=f38181)
@@ -22,7 +20,7 @@ I'm still creating some projects. If you :heart: it, want to support it, or prob
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=f38181)
 
 ## Projects and Creations
-Lately, I'm interested in building some static site themes for Jekyll and Hugo. Even though I don't really have a sense in UI/UX or web design, I'm still trying to build them.
+Lately, I'm interested in building some static site themes for Jekyll and Hugo. Even though I don't really have a sense in UI/UX or web design, I'm still trying to build them. I also practice CI/CD in order to deploy the site easily after merged.
 
 Here is my ongoing theme projects:
 
