@@ -2,15 +2,13 @@
 
 # Hi there! 👋
 
-I'm Kulacino a.k.a _Ayu W_, working as a **DevOps Engineer**. I live around Bogor, West Java, Indonesia with my husband and four :cat: cats: `Yi, Sun, Shin, and Miny`.
+I'm Kulacino a.k.a _Ayu W_, working as a **DevSecOps practitioner**. I live around Bogor, West Java, Indonesia with my partner and four :cat: cats: `Yi, Sun, Shin, and Miny`.
 
 ## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Kubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=f38181)
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=f38181)
-![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=atom&logoColor=white&color=f38181)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=f38181)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=f38181)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=f38181)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=f38181)
 ![](https://img.shields.io/badge/SSG-Jekyll-informational?style=flat&logo=jekyll&logoColor=white&color=f38181)
 ![](https://img.shields.io/badge/SSG-Hugo-informational?style=flat&logo=hugo&logoColor=white&color=f38181)
@@ -34,4 +32,4 @@ Other projects (mostly scripts):
 - [Ansible database dumper](https://github.com/kulacino/ansible-database-dumper), can be used inside Ansible AWX too.
 - [Dockerpool](https://github.com/kulacino/Dockerpool), _pun from Deadpool_ :joy:. It's a collection of `Dockerbuild` files.
 - Simple [web-server-installer](https://github.com/kulacino/web-server-installer) to install various web server stack (_last update: Dec 5, 2017_).
-- Various bots (will be uploaded soon).
+- Various bots (will be uploaded soon if i'm not lazy). XD
